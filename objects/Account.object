@@ -250,6 +250,13 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>External_ID__c</fullName>
+        <displayFormat>EI-{0000}</displayFormat>
+        <externalId>false</externalId>
+        <label>External ID</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>Fax</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
